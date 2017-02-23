@@ -1789,7 +1789,8 @@ html input[disabled] {
         display: inline-block;
         margin: 0 5px; } }
     .navigation-menu .navigation-item > a {
-      font-family: 'janeaustennosecret', cursive;
+      font-family: 'Yeseva One', cursive;
+      font-weight: bold;
       margin: 0;
       display: block;
       color: #fff;
@@ -1997,17 +1998,9 @@ html input[disabled] {
       color: #fff; }
 
 .wedding-schedule-heading {
-  font-family: 'janeaustennosecret', cursive;
+  font-family: 'Yeseva One', cursive;
   color: #cd9f0b;
   width: 50%;
-  float: left;
-  padding: 0;
-  text-align: left; }
-
-  .wedding-schedule-heading-special {
-  font-family: 'janeaustennosecret', cursive;
-  color: #cd9f0b;
-  width: 80%;
   float: left;
   padding: 0;
   text-align: left; }
@@ -2018,7 +2011,7 @@ html input[disabled] {
   margin-bottom: 10px; }
 
 .wedding-schedule-time {
-  font-family: 'janeaustennosecret', cursive;
+  font-family: 'Yeseva One', cursive;
   float: left;
   color: #cd9f0b;
   width: 50%;
@@ -2128,7 +2121,7 @@ html input[disabled] {
       padding-bottom: 40px; } }
 
 .footer-heading {
-  font-family: 'janeaustennosecret', cursive;
+  font-family: 'Yeseva One', cursive;
   margin-top: 20px;
   margin-bottom: 20px;
   color: #fff; }
