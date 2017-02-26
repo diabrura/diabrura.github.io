@@ -49,11 +49,11 @@ svg:not(:root) {
   overflow: hidden; }
 
 body {
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  font-size: 1rem;
-  line-height: 28px;
-  line-height: 1.75rem;
+  font-family: "Dosis", sans-serif;
+  font-size: 14px;
+  font-size: 0.875em;
+  line-height: 22px;
+  line-height: 1.375rem;
   color: #494d4e;
   font-weight: 300;
   background: #fff; }
@@ -214,23 +214,23 @@ dl dd {
 
 blockquote,
 .blockquote {
-  font-family: 'janeaustennosecret', 'Kristi', cursive;
+  font-family: 'Dosis', sans-serif
   font-weight: 300;
-  font-style: italic;
+  font-style: normal;
   margin: 20px 0; }
   blockquote p,
   .blockquote p {
-    font-size: 18px;
-    font-size: 1.125rem;
-    line-height: 36px;
-    line-height: 2.25rem;
+    font-size: 14px;
+    font-size: 0.875rem;
+    line-height: 28px;
+    line-height: 1.75rem;
     margin-bottom: 20px; }
   blockquote cite,
   .blockquote cite {
-    font-size: 13px;
-    font-size: 0.8125rem;
-    line-height: 25px;
-    line-height: 1.5625rem;
+    font-size: 14px;
+    font-size: 0.875rem;
+    line-height: 28px;
+    line-height: 1.75rem;
     font-weight: 700;
     font-style: normal; }
 
@@ -2044,9 +2044,9 @@ html input[disabled] {
               animation-delay: 0.6s; }
 
 .gifts-text {
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  font-size: 1rem;
+  font-family: "Dosis", sans-serif;
+  font-size: 14px;
+  font-size: 0.875rem;
   line-height: 28px;
   line-height: 1.75rem;
   color: #fff;
